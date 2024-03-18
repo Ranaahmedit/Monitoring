@@ -9,8 +9,8 @@
  7- sudo systemctl status docker
  8- sudo systemctl start docker
  9- sudo systemctl enable docker
-10- sudo systemctl status docker
-11- sudo usermod -aG docker ubuntu
+ 10- sudo systemctl status docker
+ 11- sudo usermod -aG docker ubuntu
 
 
 ###Install docker-compose
